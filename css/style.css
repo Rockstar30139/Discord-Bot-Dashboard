@@ -53,7 +53,7 @@ nav {
 }
 
 #botname-main-1 {
-    color: #25D430;
+    color: #AC2626;
     font-family: "Black Ops One";
     text-align: center;
     font-size: 40px;
@@ -73,7 +73,7 @@ nav {
     width: 200px;
     height: 50px;
     border-radius: 40px;
-    background-color: #C1E809;
+    background-color: #1DA162;
     border: none;
     transition: 0.5s;
     cursor: pointer;
@@ -84,7 +84,7 @@ nav {
 
 #main-button-2:hover {
     transition: 0.5s;
-    filter: drop-shadow(2px 4px 10px #181a1d);
+    filter: drop-shadow(2px 4px 10px #CC14C5);
     outline: none;
 }
 
@@ -92,7 +92,7 @@ nav {
     width: 200px;
     height: 50px;
     border-radius: 40px;
-    background-color: #E8090D;
+    background-color: #BD2B34;
     border: none;
     color: white;
     transition: 0.5s;
@@ -112,7 +112,7 @@ nav {
     width: 200px;
     height: 50px;
     border-radius: 40px;
-    background-color: #E8090D;
+    background-color: #03ACE7;
     color: #ffffff;
     border: none;
     transition: 0.5s;
@@ -132,8 +132,8 @@ nav {
     width: 200px;
     height: 50px;
     border-radius: 40px;
-    background-color: #f96854;
-    color: #052d49;
+    background-color: #44D340;
+    color: #F3EA13;
     border: none;
     transition: 0.5s;
     outline: none;
@@ -152,7 +152,7 @@ nav {
     width: 200px;
     height: 50px;
     border-radius: 40px;
-    background-color: #ffee00;
+    background-color: #F35313;
     color: black;
     border: none;
     transition: 0.5s;
@@ -173,7 +173,7 @@ www.creper92.tk*/
 
 #main-info {
     font-family: "Bungee";
-    color: #ffffff;
+    color: #135CF3;
 }
 
 #main-info-1 {
@@ -197,7 +197,7 @@ footer {
 
 #footer-copyright {
     text-align: center;
-    color: #99aab5;
+    color: #135CF3;
     font-family: "Black Ops one";
 }
 
@@ -268,7 +268,7 @@ a {
     font-family: "Aldrich";
     font-weight: bold;
     text-align: center;
-    color: #ffffff;
+    color: #21D299;
 }
 
 #developers-grade2 {
@@ -277,7 +277,7 @@ a {
     font-family: "Aldrich";
     font-weight: bold;
     text-align: center;
-    color: #ffffff;
+    color: #21D299;
 }
 
 #developers-grade3 {
